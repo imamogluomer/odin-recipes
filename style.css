@@ -1,0 +1,43 @@
+.LasagnaPicture {
+    align-self: center;
+}
+
+.PizzaPicture {
+    align-self: center;
+}
+#odinphotocss {}
+
+
+body {
+
+    background: rgb(2, 1, 10);
+    background: linear-gradient(0deg, rgba(2, 1, 10, 1) 0%, rgba(15, 15, 60, 1) 35%, rgba(35, 119, 136, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+
+h3 {
+    text-decoration-line: underline;
+    text-shadow: 6cap;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
